@@ -19,4 +19,7 @@
 <br>
 
 ## &#129300; Where to find me?
-![Discord](https://dcbadge.vercel.app/api/shield/282610650306314240?theme=full-presence)
+![Discord](https://dcbadge.vercel.app/api/shield/282610650306314240?theme=full-presence&compact=true)&nbsp;
+<a href="https://github.com/koimurasaki" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-222222?&style=for-the-badge&logo=github&logoColor=white">
+</a>
