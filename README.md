@@ -14,7 +14,7 @@
 
 ## &#127911; Listening
 <!-- Spotify -->
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31sqdq5rswybilhgzmyu3vpl6i7i&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31e7m5jomwzf3zf27ohjy5zgcbqu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31e7m5jomwzf3zf27ohjy5zgcbqu&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)]]
 
 <br>
 
